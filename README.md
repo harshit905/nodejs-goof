@@ -214,3 +214,5 @@ In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
 
 Scan marker: 2026-10-01T11:29Z (CodeAnt upgrade-impact test run on a fork of the upstream repo).
+
+Scan marker: 2026-10-01T20:44Z (fresh commit for the test-environment rescan).
